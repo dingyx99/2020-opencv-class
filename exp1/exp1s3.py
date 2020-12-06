@@ -13,4 +13,3 @@ result = cv2.merge((bH, gH, rH))
 cv2.imshow("Destination", result)
 
 cv2.waitKey(0)
-cv2.destroyAllWindows()

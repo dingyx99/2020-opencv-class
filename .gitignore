@@ -184,3 +184,6 @@ dmypy.json
 testImage/
 testImage/*
 *.md
+*.docx
+*.pdf
+*.zip

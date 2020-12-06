@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("Fruits.jpg")
+img = cv2.imread("peppers_Salt.bmp")
 cv2.imshow("Original", img)
 
 img_median_blur = cv2.medianBlur(img, 3)
