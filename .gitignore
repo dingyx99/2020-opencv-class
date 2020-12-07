@@ -187,3 +187,4 @@ testImage/*
 *.docx
 *.pdf
 *.zip
+*.out
